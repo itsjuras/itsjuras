@@ -1,6 +1,6 @@
 ## Hey there! :wave:
 
-I'm **Juras**, a **full-stack software developer** based in **Vancouver, Canada**...  
+I'm **Juras**, a **full-stack software developer** based in **Vancouver, Canada** ...  
 and a **third year computer science student** at **Simon Fraser University**.
 
 **Primary stack:** React / TypeScript / Tailwind on the frontend, Node.js + Express on the backend, PostgreSQL for data.
